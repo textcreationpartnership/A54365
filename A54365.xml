@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The substance of the information of Richard Perkin of Shutborrow, in the county of Stafford taken upon oath at Stafford Assizes 1679 by Sir Robert Atkyns knight, then one of the judges for that circuit.</title>
+            <author>Perkin, Richard, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54365</idno>
+            <idno type="STC">Wing P1541</idno>
+            <idno type="STC">ESTC R8776</idno>
+            <idno type="EEBO-CITATION">13534217</idno>
+            <idno type="OCLC">ocm 13534217</idno>
+            <idno type="VID">100021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100021)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 471:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The substance of the information of Richard Perkin of Shutborrow, in the county of Stafford taken upon oath at Stafford Assizes 1679 by Sir Robert Atkyns knight, then one of the judges for that circuit.</title>
+                  <author>Perkin, Richard, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100021:1"/>
+            <pb facs="tcp:100021:1"/>
+            <p>THE SUBSTANCE OF THE INFORMATION OF Richard Perkin OF SHUTBORROW, In the COUNTY of STAFFORD; Taken upon Oath at <hi>Stafford</hi> Aſſizes 1679. by Sir <hi>Robert Atkyns</hi> Knight, then one of the Judges for that Circuit.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin</hi> in <hi>Ball-Court,</hi> near the <hi>Black Bull</hi> in the <hi>Old Baily.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100021:2"/>
+            <pb n="1" facs="tcp:100021:2"/>
+            <head>The Subſtance of the Information of <hi>Richard Perkin,</hi> as it was taken upon Oath by Sir <hi>Robert Atkyns</hi> Knight, then a Judge at <hi>Stafford</hi> Aſſizes 1679.</head>
+            <p>
+               <hi>THis Informant ſaith, that about Seven or Eight Years ſince, Mr.</hi> Arthur Fox, (<hi>then Servant to the Preſent</hi> Lord Aſton) <hi>came to him, and to another of his Friends, and told them that there was a</hi> Ba<g ref="char:EOLhyphen"/>ſtard-Child <hi>laid to his charge, by one of his Lords</hi> Tenants Daughters, <hi>and did acknow<g ref="char:EOLhyphen"/>ledge to them that he</hi> did ſeveral Times lie with her, <hi>and that by the beſt computation of Time he could make, he had juſt grounds to believe that ſhe had done him no wrong in this her</hi> charge, <hi>and that he verily believed himſelf to be the</hi> Father of the Child, <hi>and therefore came to them as his particular Friends, for their advice in the caſe, how to prevent the noiſe and ſcandal and great charge that was like to enſue hereupon, and deſired them to treat with the Young Womans Father and Mother about it, and to offer them a certain Summ of Mony to free him from all future charge from, or by reaſon of this buſineſs.</hi>
+            </p>
+            <p>
+               <hi>In Purſuance of this requeſt, this Informant and his Friend addreſſed themſelves to the Young Woman, and to her Father and Mother. The
+<pb n="2" facs="tcp:100021:3"/>Young Woman with the greateſt Aſſeverations and Proteſtations did affirm that ſhe had</hi> never lain with any man <hi>whatever, but the ſaid Mr.</hi> Fox, <hi>and that he was the real</hi> Father of the Child; <hi>then they came to a Treaty with her Fa<g ref="char:EOLhyphen"/>ther about aſcertaining the charge, and agreed that Mr.</hi> Fox, ſhould Pay Thirty Pounds, to be for ever diſcharged from the ſaid Child, <hi>Part of which Summ was accordingly Paid.</hi>
+            </p>
+            <p>
+               <hi>When they returned to Mr.</hi> Fox, <hi>and had ac<g ref="char:EOLhyphen"/>quainted him what Agreement they had made for him, with the Father and Mother of the Young Woman, he ſeemed exceeding well ſatisfied there<g ref="char:EOLhyphen"/>with, and returned them many Thanks, owning himſelf very much obliged to them both, for their great care and pains in tranſacting this Affair for him, and bringing it to an iſſue, ſo much to his content.</hi>
+            </p>
+            <p>Mr. <hi>Eures</hi> the Prieſt belonging to the <hi>Lord Aſton</hi>'s Houſe, was abroad whilſt this buſineſs was in agitation, but returning in few days before all the ſaid 30 <hi>l.</hi> was paid, was informed by Mr. <hi>Fox</hi> himſelf what agreement was made for him by this Informant and his Friend as aforeſaid.</p>
+            <p>Mr. <hi>Eures</hi> having thus underſtood the whole caſe, told Mr. <hi>Fox,</hi> that what he had done was not ſufficient to take off the <hi>Scandal</hi> from their <hi>Church;</hi> for to his know<g ref="char:EOLhyphen"/>ledg this ſtory was much talked of abroad, and that with very ſevere <hi>Reflections</hi> upon the <hi>Roman Catholicks</hi> in general; and there<g ref="char:EOLhyphen"/>fore
+<pb n="3" facs="tcp:100021:3"/>as his <hi>Ghoſtly Father,</hi> he would adviſe him what was to be done in order to the taking off ſo great a ſcandal from their Church, and added, that he had conſult<g ref="char:EOLhyphen"/>ed Mr. <hi>Peters, another Prieſt,</hi> about it; and that they were come to a <hi>Reſolve</hi> what method ſhould be uſed; and therefore required him to prepare himſelf for <hi>Con<g ref="char:EOLhyphen"/>feſſion.</hi>
+            </p>
+            <p>Accordingly Mr. <hi>Fox</hi> came to <hi>Confeſſion</hi> to the ſaid Mr. <hi>Evers,</hi> and owned the whole matter as aforeſaid; then Mr. <hi>Evers</hi> told him again, he ſtill continuing upon his knees, that the <hi>Scandal</hi> that was hereby brought to their <hi>Church</hi> and <hi>Religion,</hi> was very great, and therefore for the taking it off, and preventing further <hi>ſcandal</hi> for the future to their <hi>Church,</hi> to my <hi>Lord Aſton,</hi> or to <hi>himſelf,</hi> Mr. <hi>Peters</hi> and he had agreed upon this courſe, <hi>viz. That he ſhould go immediately to his Lord</hi> Aſton, <hi>and on his knees before his Lord and Lady, with ſolemn Oaths and Aſſeverations, deny that he ever had any thing to do with the ſaid young Woman in that nature; and that he was altogether inno<g ref="char:EOLhyphen"/>cent of the Crime laid to his Charge; and that af<g ref="char:EOLhyphen"/>ter this he ſhould go up to the Chapel where the Congregation was met, and there in like manner deny it, with the like Aſſeperations; and to con<g ref="char:EOLhyphen"/>firm them in the belief of the Truth of it, he ſhould then before them receive the Sacrament.</hi> When Mr. <hi>Evers</hi> had finiſhed theſe <hi>Inſtructions,</hi> he gave him <hi>Abſolution</hi> before he roſe from his
+<pb n="4" facs="tcp:100021:4"/>knees, telling him, <hi>That if he obſerved theſe Inſtructions, he was abſolved from the ſaid Crime, and therefore Innocent of it altogether and might ſo declare himſelf as aforeſaid.</hi> And for his further <hi>Penance,</hi> he enjoyn'd him to viſit the <hi>Chappel</hi> once a day for the ſpace of a a month next following, and to ſay ſuch <hi>Prayers</hi> as he ſhould particularly direct therein: <hi>All which Inſtructions in every parti<g ref="char:EOLhyphen"/>cular the ſaid Mr.</hi> Fox <hi>punctually obſerved.</hi> His Friend aforeſaid being in the Chappel when the things enjoyn'd were done, <hi>viz.</hi> when he diſowned the Face with ſolemn Oaths, and received the Sacrament upon it; and did the Penance enjoyced him.</p>
+            <p>After this Mr. <hi>Forces</hi> other Friend that had aſſiſted in compoſing the Affair with the Father and Mother, came to him, to know what care was taken about the Pay<g ref="char:EOLhyphen"/>ment of the Moneys, becauſe he ſtood engaged for it, and ſuppoſed he ſhould be called upon for it; to which Mr. <hi>Fox</hi> anſwered, That what he had done ſince that <hi>Agreement</hi> was by Mr. <hi>Evers</hi> his order, nor ſhould he do any thing elſe but by his advice; upon which his Friend repairs to Mr. <hi>Evers,</hi> and deſires to know of him what they intended to do, and when the money ſhould be paid; Mr. <hi>Evers</hi> an<g ref="char:EOLhyphen"/>ſwered, That what Mr. <hi>Fox</hi> had done in reference to the denying of the Fact, was done upon nature deliberation, and good advice; and that it was the beſt way
+<pb n="5" facs="tcp:100021:4"/>that could poſſibly be propoſed in that Affair, and that he ſhould not need fur<g ref="char:EOLhyphen"/>ther to concern or trouble himſelf about it; his Friend then told Mr. <hi>Evers,</hi> that he ſtood engaged for the moneys, having promiſed to ſee it paid. and that he was therefore in danger of being ſued for it; to which <hi>Mr. Evers</hi> replies, that he would take ſuch effectual care about it, with the <hi>Lord Aſton,</hi> that he ſhould not ſuffer thereby, and ſo he did, as appeared by the ſequel; for the Lord <hi>Aſton</hi> ſoon after ſent for the Father and Mother of the <hi>Young Woman,</hi> and told them, that if they did not deſiſt from ſpreading ſuch a Re<g ref="char:EOLhyphen"/>port, that Mr. <hi>Fox</hi> was the Father of the ſaid Child, he would ruine them, to which the Father anſwered, That it was not in his power to ſtop the ſaid Report; nor was it any thing but Truth, and <hi>Mr. Fox</hi> himſelf had confeſſed, that he was the Father of the Child; at which refuſal the <hi>Lord</hi> was very much incenſed, and preſently ordered him to be deprived of ſeveral Profits that he enjoyed, as one of his Lordſhips Tenants and Servants.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <pb facs="tcp:100021:5"/>
+            <head>A Notice to the Reader.</head>
+            <p>THe Reader is deſired to take notice, that though the Ti<g ref="char:EOLhyphen"/>tle mentions only the name of <hi>Richard Perkin,</hi> and though he only made the Information upon Oath, yet to make the Story Perfect, there is ſometimes intermixed with it, what came to the knowledge of the other Friend con<g ref="char:EOLhyphen"/>cern'd with Mr. <hi>Perkin,</hi> who for ſome reaſons beſt known to himſelf, thinks fit to conceal his name, and is therefore throughout the Information called only <hi>his Friend.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THere are Publiſhed Animadverſions on the Lord <hi>Staf<g ref="char:EOLhyphen"/>fords</hi> laſt Speech, plainly Diſcovering the Fallacy of all his Aſſeverations of his Innocency; <hi>Price</hi> Sitcht 4. <hi>d.</hi>
+            </p>
+            <p>As alſo an Account of the manner of his Execution, with ſeveral other Branches of the Plot, lively delineated on a Large Copper-Plate; <hi>Price</hi> 4 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:100021:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
